@@ -1,4 +1,4 @@
-# Largest-tie
+# Largest tie on a binary tree 
 This program gets a binary tree (a tree where the number of children of each node is at most two) and then finds the most valuable node in each level.  
 *The tree is built in the code.
 
